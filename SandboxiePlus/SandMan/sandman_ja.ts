@@ -22,7 +22,7 @@
         <location filename="Forms/BoxImageWindow.ui" line="98"/>
         <location filename="Forms/BoxImageWindow.ui" line="162"/>
         <source>TextLabel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">TextLabel</translation>
     </message>
     <message>
         <location filename="Forms/BoxImageWindow.ui" line="105"/>
@@ -827,7 +827,7 @@ You can click Finish to close this wizard.</source>
     <message>
         <location filename="Views/FileView.cpp" line="289"/>
         <source>Select Directory</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ディレクトリの選択</translation>
     </message>
     <message>
         <location filename="Views/FileView.cpp" line="355"/>
@@ -856,7 +856,7 @@ You can use %USER% to save each users sandbox to an own folder.</source>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="523"/>
         <source>Select Directory</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ディレクトリの選択</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="531"/>
@@ -1058,7 +1058,7 @@ You can use %USER% to save each users sandbox to an own folder.</source>
     <message>
         <location filename="Models/MonitorModel.cpp" line="148"/>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">状態</translation>
     </message>
     <message>
         <location filename="Models/MonitorModel.cpp" line="149"/>
@@ -1504,7 +1504,7 @@ Note: The update check is often behind the latest GitHub release to ensure that 
         <location filename="Windows/OptionsRecovery.cpp" line="128"/>
         <location filename="Windows/OptionsRecovery.cpp" line="139"/>
         <source>Select Directory</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ディレクトリの選択</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAccess.cpp" line="537"/>
@@ -2208,12 +2208,12 @@ Please select a folder which contains this file.</source>
     <message>
         <location filename="Windows/PopUpWindow.h" line="271"/>
         <source>Clear folder list</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">フォルダリストをクリア</translation>
     </message>
     <message>
         <location filename="Windows/PopUpWindow.h" line="279"/>
         <source>Recover</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">回復</translation>
     </message>
     <message>
         <location filename="Windows/PopUpWindow.h" line="280"/>
@@ -2258,7 +2258,7 @@ Please select a folder which contains this file.</source>
     <message>
         <location filename="Windows/PopUpWindow.h" line="323"/>
         <source>Select Directory</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ディレクトリの選択</translation>
     </message>
 </context>
 <context>
@@ -3853,7 +3853,7 @@ This file is part of Sandboxie and all change done to it will be reverted next t
     <message>
         <location filename="SandMan.cpp" line="4109"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">閉じる</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4110"/>
@@ -4079,7 +4079,7 @@ This file is part of Sandboxie and all change done to it will be reverted next t
     <message>
         <location filename="SbieProcess.cpp" line="67"/>
         <source>Windows Explorer</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Windows エクスプローラ</translation>
     </message>
     <message>
         <location filename="SbieProcess.cpp" line="68"/>
@@ -4282,19 +4282,19 @@ This file is part of Sandboxie and all change done to it will be reverted next t
         <location filename="Views/SbieView.cpp" line="154"/>
         <location filename="Views/SbieView.cpp" line="288"/>
         <source>Create New Box</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">新規にサンドボックスを作成</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="155"/>
         <location filename="Views/SbieView.cpp" line="289"/>
         <source>Create Box Group</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">新規にグループを作成</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="156"/>
         <location filename="Views/SbieView.cpp" line="290"/>
         <source>Import Box</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ボックスのインポート</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="161"/>
@@ -4983,7 +4983,7 @@ This file is part of Sandboxie and all change done to it will be reverted next t
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="244"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">閉じる</translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="246"/>
@@ -5285,7 +5285,7 @@ This file is part of Sandboxie and all change done to it will be reverted next t
         <location filename="Windows/SettingsWindow.cpp" line="1938"/>
         <location filename="Windows/SettingsWindow.cpp" line="2084"/>
         <source>Select Directory</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ディレクトリの選択</translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="1967"/>
@@ -5348,7 +5348,7 @@ This file is part of Sandboxie and all change done to it will be reverted next t
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="33"/>
         <source>Setup Wizard</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">セットアップウィザード</translation>
     </message>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="44"/>
@@ -5386,12 +5386,12 @@ This file is part of Sandboxie and all change done to it will be reverted next t
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="502"/>
         <source>Start UI with Windows</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Windows の起動時</translation>
     </message>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="507"/>
         <source>Add &apos;Run Sandboxed&apos; to the explorer context menu</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">[サンドボックス化して実行] 操作を右クリックに追加</translation>
     </message>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="512"/>
@@ -5865,7 +5865,7 @@ If you are a Great Supporter on Patreon already, Sandboxie can check online for 
     <message>
         <location filename="Models/TraceModel.cpp" line="336"/>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">状態</translation>
     </message>
     <message>
         <location filename="Models/TraceModel.cpp" line="337"/>
@@ -5965,7 +5965,7 @@ If you are a Great Supporter on Patreon already, Sandboxie can check online for 
     <message>
         <location filename="Views/TraceView.cpp" line="336"/>
         <source>Cleanup Trace Log</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">トレースログを掃除</translation>
     </message>
     <message>
         <location filename="Views/TraceView.cpp" line="382"/>
@@ -6092,7 +6092,7 @@ If you are a Great Supporter on Patreon already, Sandboxie can check online for 
     <message>
         <location filename="Forms/OptionsWindow.ui" line="52"/>
         <source>General Options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">全般</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="62"/>
@@ -6485,7 +6485,7 @@ If you are a Great Supporter on Patreon already, Sandboxie can check online for 
         <location filename="Forms/OptionsWindow.ui" line="4637"/>
         <location filename="Forms/OptionsWindow.ui" line="4713"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">名前</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="927"/>
@@ -6495,12 +6495,12 @@ If you are a Great Supporter on Patreon already, Sandboxie can check online for 
     <message>
         <location filename="Forms/OptionsWindow.ui" line="947"/>
         <source>Move Up</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">上に移動</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="966"/>
         <source>Move Down</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">下に移動</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="973"/>
@@ -6778,7 +6778,7 @@ If you are a Great Supporter on Patreon already, Sandboxie can check online for 
         <location filename="Forms/OptionsWindow.ui" line="2271"/>
         <location filename="Forms/OptionsWindow.ui" line="3057"/>
         <source>Add Program</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">プログラムを追加</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1751"/>
@@ -6788,7 +6788,7 @@ If you are a Great Supporter on Patreon already, Sandboxie can check online for 
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1783"/>
         <source>Program Control</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">プログラム制御</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1805"/>
@@ -7176,12 +7176,12 @@ The process match level has a higher priority than the specificity and describes
     <message>
         <location filename="Forms/OptionsWindow.ui" line="3369"/>
         <source>Add Folder</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">フォルダを追加</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="3379"/>
         <source>Immediate Recovery</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">直接リカバリ</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="3399"/>
@@ -7541,7 +7541,7 @@ instead of &quot;*&quot;.</source>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="4530"/>
         <source>App Templates</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">アプリテンプレート</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="4540"/>
@@ -7608,22 +7608,22 @@ Please note that this values are currently user specific and saved globally for 
     <message>
         <location filename="Forms/OptionsWindow.ui" line="4842"/>
         <source>Edit ini Section</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ini 編集セクション</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="4848"/>
         <source>Edit ini</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ini を編集</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="4861"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">キャンセル</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="4884"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">保存</translation>
     </message>
 </context>
 <context>
@@ -7665,7 +7665,7 @@ Please note that this values are currently user specific and saved globally for 
     <message>
         <location filename="SandMan.cpp" line="4240"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">キャンセル</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4241"/>
@@ -7741,7 +7741,7 @@ Please note that this values are currently user specific and saved globally for 
     <message>
         <location filename="Forms/SelectBoxWindow.ui" line="47"/>
         <source>Run Sandboxed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">サンドボックス化して実行</translation>
     </message>
     <message>
         <location filename="Forms/SelectBoxWindow.ui" line="65"/>
@@ -8211,7 +8211,7 @@ Please note that this values are currently user specific and saved globally for 
     <message>
         <location filename="Forms/SettingsWindow.ui" line="1324"/>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">状態</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="1329"/>
@@ -8532,7 +8532,7 @@ Unlike the preview channel, it does not include untested, potentially breaking, 
     <message>
         <location filename="Forms/SettingsWindow.ui" line="2194"/>
         <source>Program Alerts</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">プログラム アラート</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="2221"/>
