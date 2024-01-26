@@ -36,7 +36,7 @@
 "This box has DropAdminRights enabled, preventing execution of installers. Do you want to disable this restriction, that will reduce the security level.": "This box has DropAdminRights enabled, preventing execution of installers. Do you want to disable this restriction, that will reduce the security level.",
 "Disable DropAdminRights": "Disable DropAdminRights",
 "Enable FakeAdminRights": "Enable FakeAdminRights",
-"running installer, pid: %1 press NEXT once it finishes to continue": "running installer, pid: %1 press NEXT once it finishes to continue",
+"running installer, pid: %1 press NEXT once it finishes to continue": "インストーラを実行中 (pid: %1)。 終了したら「次へ」をクリックして続行してください。",
 "Was the issue resolved?": "Was the issue resolved?",
 
 "Webcam or Sound does not work when sandboxed": "サンドボックス化するとウェブカメラまたはサウンドが動作しない",
