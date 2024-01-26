@@ -1,11 +1,11 @@
 ﻿{
 "Description Text...": "Description Text...",
 "Fix current issues": "Fix current issues",
-"Fix issues with sandboxing": "Fix issues with sandboxing",
+"Fix issues with sandboxing": "サンドボックスの問題を修正する",
 "An Application does not work properly when sandboxed": "An Application does not work properly when sandboxed",
 "Issues with a web browser": "Issues with a web browser",
 "Perform Sandbox maintenance": "Perform Sandbox maintenance",
-"Fix issues with the UI or Shell": "Fix issues with the UI or Shell",
+"Fix issues with the UI or Shell": "UI またはシェルの問題を修正する",
 
 "Yes": "Yes",
 "No": "No",
