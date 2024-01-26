@@ -31,8 +31,8 @@
 "Select which shell options should be reinstalled": "Select which shell options should be reinstalled",
 
 "Failed to install application into a sandbox": "アプリケーションをサンドボックス内にインストールできない",
-"Enter Installer Path": "Enter Installer Path",
-"Select a sandbox to install into": "Select a sandbox to install into",
+"Enter Installer Path": "インストーラのパスを入力",
+"Select a sandbox to install into": "インストールするサンドボックスを選択",
 "This box has DropAdminRights enabled, preventing execution of installers. Do you want to disable this restriction, that will reduce the security level.": "This box has DropAdminRights enabled, preventing execution of installers. Do you want to disable this restriction, that will reduce the security level.",
 "Disable DropAdminRights": "Disable DropAdminRights",
 "Enable FakeAdminRights": "Enable FakeAdminRights",
