@@ -24,11 +24,11 @@
 "Select Browser Path": "ブラウザのパスを選択",
 
 "Explorer Context Menu extension does not work": "エクスプローラのコンテキストメニュー拡張が動作しない",
-"This procedure will re install the shell integration": "This procedure will re install the shell integration",
-"Add Run Sandboxed": "Add Run Sandboxed",
-"Add Run Unsandboxed": "Add Run Unsandboxed",
-"Install legacy shell extensions": "Install legacy shell extensions",
-"Select which shell options should be reinstalled": "Select which shell options should be reinstalled",
+"This procedure will re install the shell integration": "この手順では、シェル統合を再インストールします",
+"Add Run Sandboxed": "「サンドボックス化して実行」を追加",
+"Add Run Unsandboxed": "「サンドボックス化しないで実行」を追加",
+"Install legacy shell extensions": "従来のシェル拡張をインストール",
+"Select which shell options should be reinstalled": "再インストールするシェルオプションを選択してください",
 
 "Failed to install application into a sandbox": "アプリケーションをサンドボックス内にインストールできない",
 "Enter Installer Path": "インストーラのパスを入力",
