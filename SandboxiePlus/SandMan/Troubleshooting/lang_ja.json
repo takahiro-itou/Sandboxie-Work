@@ -1,16 +1,16 @@
 ﻿{
 "Description Text...": "説明テキスト...",
-"Fix current issues": "Fix current issues",
+"Fix current issues": "現在の問題を修正する",
 "Fix issues with sandboxing": "サンドボックスの問題を修正する",
 "An Application does not work properly when sandboxed": "サンドボックス化するとアプリケーションが正しく動作しない",
 "Issues with a web browser": "Web ブラウザの問題",
-"Perform Sandbox maintenance": "Perform Sandbox maintenance",
+"Perform Sandbox maintenance": "サンドボックスメンテナンスを実行",
 "Fix issues with the UI or Shell": "UI またはシェルの問題を修正する",
 
 "Yes": "はい",
 "No": "いいえ",
 
-"App compatibility checker": "App compatibility checker",
+"App compatibility checker": "アプリケーション互換性チェッカー",
 "This script check which app compatibility templates needs to be enabled": "This script check which app compatibility templates needs to be enabled",
 "Loaded %1 templates": "Loaded %1 templates",
 
