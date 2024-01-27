@@ -70,11 +70,11 @@
 
 "Sbie Message Code": "Sbie Message Code",
 "Name affected process": "Name affected process",
-"Please enter the SBIEMSG ID you have encountered.": "Please enter the SBIEMSG ID you have encountered.",
+"Please enter the SBIEMSG ID you have encountered.": "遭遇した SBIEMSG ID を入力してください。",
 "There is no automated troubleshooting available for SBIE%1 yet.<br />": "There is no automated troubleshooting available for SBIE%1 yet.<br />",
 "The full message text is: %1<br />": "The full message text is: %1<br />",
 "Visit out <a href=\"%1\">online-documentation</a> to learn more about this, and other sbie messages.": "Visit out <a href=\"%1\">online-documentation</a> to learn more about this, and other sbie messages.",
-"Would you like to collect some logs to help us resolve the issue.": "Would you like to collect some logs to help us resolve the issue.",
+"Would you like to collect some logs to help us resolve the issue.": "問題の解決に役立つログを収集しますか？",
 "Now please run your application again to trigger the Sbie message.<br /><br />": "Now please run your application again to trigger the Sbie message.<br /><br />",
 "Press NEXT when you are done collecting logs.": "Press NEXT when you are done collecting logs."
 }
