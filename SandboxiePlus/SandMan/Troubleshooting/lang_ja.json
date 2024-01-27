@@ -45,8 +45,8 @@
 "Select which box to turn into a reduced isolation app compartment box.": "Select which box to turn into a reduced isolation app compartment box.",
 "The mitigation has been applied please try out the web cam in %1 and indicate if the issue has been resolved.": "The mitigation has been applied please try out the web cam in %1 and indicate if the issue has been resolved.",
 
-"Select affected sandbox": "Select affected sandbox",
-"Enter Process Name": "Enter Process Name",
+"Select affected sandbox": "影響を受けるサンドボックスを選択",
+"Enter Process Name": "プロセス名を入力",
 
 "Internet Access restrictions are in effect for the sandbox in which the program is running. The program is prohibited from accessing the Internet.": "Internet Access restrictions are in effect for the sandbox in which the program is running. The program is prohibited from accessing the Internet.",
 
