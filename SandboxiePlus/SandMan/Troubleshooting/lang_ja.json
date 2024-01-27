@@ -11,8 +11,8 @@
 "No": "いいえ",
 
 "App compatibility checker": "アプリケーション互換性チェッカー",
-"This script check which app compatibility templates needs to be enabled": "This script check which app compatibility templates needs to be enabled",
-"Loaded %1 templates": "Loaded %1 templates",
+"This script check which app compatibility templates needs to be enabled": "このスクリプトは、どのアプリ互換性テンプレートを有効にする必要があるかをチェックします",
+"Loaded %1 templates": "%1 テンプレートをロードしました",
 
 "Browser shortcut is missing from the desktop": "ブラウザのショートカットがデスクトップに無い",
 "This procedure will add a browser shortcut to the desktop": "この手順では、ブラウザのショートカットをデスクトップに追加します",
