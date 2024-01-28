@@ -43,7 +43,7 @@
 "To enable webcam support on Windows 11, the isolation level must be reduced. \nIf you want to proceed, please press NEXT and select a sandbox to modify. \n": "Windows 11 で、ウェブカメラを有効にするためには、隔離レベルを下げる必要があります。続行するには、「次へ」を押下して変更するサンドボックスを選択してください。\n",
 "\nPlease note that this required preset works only with a valid supporter certificate!": "\nこの必須プリセットは、有効なサポーター証明書が必要なことに注意してください！",
 "Select which box to turn into a reduced isolation app compartment box.": "どのボックスを隔離レベルを低減したアプリコンパートメントボックスに変更するか選択してください。",
-"The mitigation has been applied please try out the web cam in %1 and indicate if the issue has been resolved.": "The mitigation has been applied please try out the web cam in %1 and indicate if the issue has been resolved.",
+"The mitigation has been applied please try out the web cam in %1 and indicate if the issue has been resolved.": "緩和策が適用されました。%1 のウェブカメラを試して問題が解決したかどうかを示してください。",
 
 "Select affected sandbox": "影響を受けるサンドボックスを選択",
 "Enter Process Name": "プロセス名を入力",
