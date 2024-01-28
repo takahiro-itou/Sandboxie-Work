@@ -34,8 +34,8 @@
 "Enter Installer Path": "インストーラのパスを入力",
 "Select a sandbox to install into": "インストールするサンドボックスを選択",
 "This box has DropAdminRights enabled, preventing execution of installers. Do you want to disable this restriction, that will reduce the security level.": "This box has DropAdminRights enabled, preventing execution of installers. Do you want to disable this restriction, that will reduce the security level.",
-"Disable DropAdminRights": "Disable DropAdminRights",
-"Enable FakeAdminRights": "Enable FakeAdminRights",
+"Disable DropAdminRights": "DropAdminRights オプションを無効にする",
+"Enable FakeAdminRights": "FakeAdminRights オプションを有効にする",
 "running installer, pid: %1 press NEXT once it finishes to continue": "インストーラを実行中 (pid: %1)。 終了したら「次へ」を押下して続行してください。",
 "Was the issue resolved?": "問題は解決しましたか？",
 
