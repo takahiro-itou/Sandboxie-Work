@@ -68,7 +68,7 @@
 
 "It seems you are using a non-administrative user account on a system with enabled parental controls, this is known to be incompatible with Sandboxie.\nYou have the following options to resolve the issue.": "It seems you are using a non-administrative user account on a system with enabled parental controls, this is known to be incompatible with Sandboxie.\nYou have the following options to resolve the issue.",
 
-"Sbie Message Code": "Sbie Message Code",
+"Sbie Message Code": "Sbie メッセージコード",
 "Name affected process": "Name affected process",
 "Please enter the SBIEMSG ID you have encountered.": "遭遇した SBIEMSG ID を入力してください。",
 "There is no automated troubleshooting available for SBIE%1 yet.<br />": "There is no automated troubleshooting available for SBIE%1 yet.<br />",
