@@ -349,17 +349,17 @@ It is recommended to choose a password consisting of 20 or more characters. Are 
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="228"/>
         <source>A sandbox isolates your host system from processes running within the box, it prevents them from making permanent changes to other programs and data in your computer. </source>
-        <translation>サンドボックスは、ボックス内で実行されているプロセスから、ホストシステムを隔離します。コンピュータ内のほかのプログラムやデータに永続的な変更が加えられるのを防ぎます。</translation>
+        <translation>サンドボックスは、ボックス内で実行されているプロセスから、ホストシステムを隔離します。コンピュータ内のほかのプログラムやデータに永続的な変更が加えられるのを防ぎます。 </translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="231"/>
         <source>A sandbox isolates your host system from processes running within the box, it prevents them from making permanent changes to other programs and data in your computer. The level of isolation impacts your security as well as the compatibility with applications, hence there will be a different level of isolation depending on the selected Box Type. Sandboxie can also protect your personal data from being accessed by processes running under its supervision.</source>
-        <translation type="unfinished"></translation>
+        <translation>サンドボックスは、ボックス内で実行されているプロセスから、ホストシステムを隔離します。コンピュータ内のほかのプログラムやデータに永続的な変更が加えられるのを防ぎます。隔離レベルは、アプリケーションとの互換性だけでなくセキュリティにも影響を与えます。そのため、選択したボックスタイプに依存して隔離レベルが異なります。Sandboxie は、その監視下で実行されているプロセスから個人データを保護することも可能です。</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="242"/>
         <source>Enter box name:</source>
-        <translation type="unfinished"></translation>
+        <translation>ボックス名を入力：</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="257"/>
@@ -369,7 +369,7 @@ It is recommended to choose a password consisting of 20 or more characters. Are 
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="297"/>
         <source>&lt;a href=&quot;sbie://docs/security-mode&quot;&gt;Security Hardened&lt;/a&gt; Sandbox with &lt;a href=&quot;sbie://docs/privacy-mode&quot;&gt;Data Protection&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;sbie://docs/security-mode&quot;&gt;セキュリティ強化された&lt;/a&gt; サンドボックス。&lt;a href=&quot;sbie://docs/privacy-mode&quot;&gt;データ保護&lt;/a&gt;付</translation>
+        <translation>&lt;a href=&quot;sbie://docs/security-mode&quot;&gt;セキュリティ強化された&lt;/a&gt; サンドボックス &lt;a href=&quot;sbie://docs/privacy-mode&quot;&gt;データ保護&lt;/a&gt;付</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="298"/>
@@ -428,54 +428,56 @@ While the level of isolation is reduced compared to other box types, it offers i
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="312"/>
         <source>&lt;a href=&quot;sbie://docs/compartment-mode&quot;&gt;Application Compartment&lt;/a&gt; Box</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;sbie://docs/compartment-mode&quot;&gt;アプリケーションコンパートメント&lt;/a&gt; ボックス</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="321"/>
         <source>&lt;a href=&quot;sbie://docs/boxencryption&quot;&gt;Encrypt&lt;/a&gt; Box content and set &lt;a href=&quot;sbie://docs/black-box&quot;&gt;Confidential&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>ボックスの内容を&lt;a href=&quot;sbie://docs/boxencryption&quot;&gt;暗号化&lt;/a&gt; し、&lt;a href=&quot;sbie://docs/black-box&quot;&gt;機密性&lt;/a&gt; を設定する</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="322"/>
         <source>In this box type the sandbox uses an encrypted disk image as its root folder. This provides an additional layer of privacy and security. 
 Access to the virtual disk when mounted is restricted to programs running within the sandbox. Sandboxie prevents other processes on the host system from accessing the sandboxed processes. 
 This ensures the utmost level of privacy and data protection within the confidential sandbox environment.</source>
-        <translation type="unfinished"></translation>
+        <translation>このボックスタイプでは、サンドボックスはルートフォルダとして暗号化されたディスクイメージを利用します。これにより、プライバシーとセキュリティの追加層が提供されます。
+マウント時の仮想ディスクへのアクセスは、サンドボックス内で実行されているプログラムに制限されます。Sandboxie は、ホストシステム上の他のプロセスが、サンドボックス化されたプロセスにアクセスすることを防止します。
+これにより、機密サンドボックス環境内で最高レベルのプライバシーとデータ保護が保証されます。</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="344"/>
         <source>Hardened Sandbox with Data Protection</source>
-        <translation type="unfinished"></translation>
+        <translation>セキュリティ強化されたサンドボックス データ保護付</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="345"/>
         <source>Security Hardened Sandbox</source>
-        <translation type="unfinished"></translation>
+        <translation>セキュリティ強化されたサンドボックス</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="346"/>
         <source>Sandbox with Data Protection</source>
-        <translation type="unfinished"></translation>
+        <translation>データ保護付 サンドボックス</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="347"/>
         <source>Standard Isolation Sandbox (Default)</source>
-        <translation type="unfinished"></translation>
+        <translation>標準的なサンドボックス (デフォルト)</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="349"/>
         <source>Application Compartment with Data Protection</source>
-        <translation type="unfinished"></translation>
+        <translation>アプリケーションコンパートメント ボックス データ保護付</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="350"/>
         <source>Application Compartment Box</source>
-        <translation type="unfinished"></translation>
+        <translation>アプリケーションコンパートメント ボックス</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="351"/>
         <source>Confidential Encrypted Box</source>
-        <translation type="unfinished"></translation>
+        <translation>機密暗号化ボックス</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="369"/>
@@ -490,12 +492,12 @@ This ensures the utmost level of privacy and data protection within the confiden
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="375"/>
         <source>Configure advanced options</source>
-        <translation type="unfinished"></translation>
+        <translation>高度なオプションを構成する</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="476"/>
         <source>To use encrypted boxes you need to install the ImDisk driver, do you want to download and install it?</source>
-        <translation type="unfinished"></translation>
+        <translation>暗号化されたボックスを使うためには、ImDisk ドライバをインストールする必要があります。ダウンロードしてインストールしますか？</translation>
     </message>
 </context>
 <context>
@@ -5562,7 +5564,7 @@ Try submitting without the log attached.</source>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="723"/>
         <source>Create the new Sandbox</source>
-        <translation type="unfinished"></translation>
+        <translation>新規にサンドボックスを作成</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="734"/>
