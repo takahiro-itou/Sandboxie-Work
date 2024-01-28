@@ -3192,27 +3192,27 @@ Do you want to do the clean up?</source>
     <message>
         <location filename="SandMan.cpp" line="1534"/>
         <source>This box provides &lt;a href=&quot;sbie://docs/security-mode&quot;&gt;enhanced security isolation&lt;/a&gt;, it is suitable to test untrusted software.</source>
-        <translation type="unfinished"></translation>
+        <translation>このボックスは &lt;a href=&quot;sbie://docs/security-mode&quot;&gt;強化されたセキュリティ隔離&lt;/a&gt; を提供し、信頼できないソフトウェアのテストに適しています。</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="1538"/>
         <source>This box provides standard isolation, it is suitable to run your software to enhance security.</source>
-        <translation type="unfinished"></translation>
+        <translation>このボックスは、標準的な隔離を提供し、セキュリティを強化するためにソフトウェアを実行するのに適しています。</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="1542"/>
         <source>This box does not enforce isolation, it is intended to be used as an &lt;a href=&quot;sbie://docs/compartment-mode&quot;&gt;application compartment&lt;/a&gt; for software virtualization only.</source>
-        <translation type="unfinished"></translation>
+        <translation>このボックスは隔離を強制しません。ソフトウェア仮想化のために、アプリケーションコンパートメントとして使うことを意図しています。</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="1545"/>
         <source>This box will be &lt;a href=&quot;sbie://docs/boxencryption&quot;&gt;encrypted&lt;/a&gt; and &lt;a href=&quot;sbie://docs/black-box&quot;&gt;access to sandboxed processes will be guarded&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>このボックスは暗号化され、サンドボックス化されたプロセスへのアクセスは保護されます。</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="1550"/>
         <source>&lt;br /&gt;&lt;br /&gt;This box &lt;a href=&quot;sbie://docs/privacy-mode&quot;&gt;prevents access to all user data&lt;/a&gt; locations, except explicitly granted in the Resource Access options.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;br /&gt;&lt;br /&gt;このボックスは、Resource Access オプションで明示的に許可されている場合を除き、&lt;a href=&quot;sbie://docs/privacy-mode&quot;&gt;巣全てのユーザーデータの場所へのアクセスが防止&lt;/a&gt; されます。</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="1654"/>
