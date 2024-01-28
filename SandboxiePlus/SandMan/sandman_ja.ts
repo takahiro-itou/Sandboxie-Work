@@ -5569,7 +5569,7 @@ Try submitting without the log attached.</source>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="734"/>
         <source>Almost complete, click Finish to create a new sandbox and conclude the wizard.</source>
-        <translation type="unfinished"></translation>
+        <translation>ほぼ完了しました。「完了」をクリックして、新しいサンドボックスを作成し、ウィザードを終了します。</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="743"/>
@@ -5579,13 +5579,14 @@ Try submitting without the log attached.</source>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="754"/>
         <source>Skip this summary page when advanced options are not set</source>
-        <translation type="unfinished"></translation>
+        <translation>高度なオプションが設定されていない時、このサマリーページをスキップする</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="773"/>
         <source>
 This Sandbox will be saved to: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>
+このサンドボックスは以下の場所に保存されます： %1</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="776"/>
