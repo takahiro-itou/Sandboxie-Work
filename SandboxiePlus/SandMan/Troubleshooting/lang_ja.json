@@ -41,7 +41,7 @@
 
 "Webcam or Sound does not work when sandboxed": "サンドボックス化するとウェブカメラまたはサウンドが動作しない",
 "To enable webcam support on Windows 11, the isolation level must be reduced. \nIf you want to proceed, please press NEXT and select a sandbox to modify. \n": "Windows 11 で、ウェブカメラを有効にするためには、隔離レベルを下げる必要があります。続行するには、「次へ」を押下して変更するサンドボックスを選択してください。\n",
-"\nPlease note that this required preset works only with a valid supporter certificate!": "\nPlease note that this required preset works only with a valid supporter certificate!",
+"\nPlease note that this required preset works only with a valid supporter certificate!": "\nこの必須プリセットは、有効なサポーター証明書が必要なことに注意してください！",
 "Select which box to turn into a reduced isolation app compartment box.": "Select which box to turn into a reduced isolation app compartment box.",
 "The mitigation has been applied please try out the web cam in %1 and indicate if the issue has been resolved.": "The mitigation has been applied please try out the web cam in %1 and indicate if the issue has been resolved.",
 
