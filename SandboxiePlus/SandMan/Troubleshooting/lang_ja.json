@@ -66,7 +66,7 @@
 
 "The message %1 is caused by the file migration limit being reached.": "メッセージ %1 は、ファイル移行の制限に達したことが原因で発生します。",
 
-"It seems you are using a non-administrative user account on a system with enabled parental controls, this is known to be incompatible with Sandboxie.\nYou have the following options to resolve the issue.": "It seems you are using a non-administrative user account on a system with enabled parental controls, this is known to be incompatible with Sandboxie.\nYou have the following options to resolve the issue.",
+"It seems you are using a non-administrative user account on a system with enabled parental controls, this is known to be incompatible with Sandboxie.\nYou have the following options to resolve the issue.": "保護者によるコントロールが有効になっているシステムで、管理者以外のユーザーアカウントを利用しているようです。これは、Sandboxie と互換性が無いことが知られています。\nこの問題を解決するためには、以下のオプションがあります。",
 
 "Sbie Message Code": "Sbie メッセージコード",
 "Name affected process": "影響を受けるプロセスの名前",
