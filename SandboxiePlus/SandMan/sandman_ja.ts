@@ -3212,7 +3212,7 @@ Do you want to do the clean up?</source>
     <message>
         <location filename="SandMan.cpp" line="1550"/>
         <source>&lt;br /&gt;&lt;br /&gt;This box &lt;a href=&quot;sbie://docs/privacy-mode&quot;&gt;prevents access to all user data&lt;/a&gt; locations, except explicitly granted in the Resource Access options.</source>
-        <translation>&lt;br /&gt;&lt;br /&gt;このボックスは、Resource Access オプションで明示的に許可されている場合を除き、&lt;a href=&quot;sbie://docs/privacy-mode&quot;&gt;巣全てのユーザーデータの場所へのアクセスが防止&lt;/a&gt; されます。</translation>
+        <translation>&lt;br /&gt;&lt;br /&gt;このボックスは、Resource Access オプションで明示的に許可されている場合を除き、&lt;a href=&quot;sbie://docs/privacy-mode&quot;&gt;全てのユーザーデータの場所へのアクセスが防止&lt;/a&gt; されます。</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="1654"/>
