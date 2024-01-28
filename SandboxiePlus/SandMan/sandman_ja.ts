@@ -344,12 +344,12 @@ It is recommended to choose a password consisting of 20 or more characters. Are 
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="216"/>
         <source>Create new Sandbox</source>
-        <translation type="unfinished"></translation>
+        <translation>新規にサンドボックスを作成</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="228"/>
         <source>A sandbox isolates your host system from processes running within the box, it prevents them from making permanent changes to other programs and data in your computer. </source>
-        <translation type="unfinished"></translation>
+        <translation>サンドボックスは、ボックス内で実行されているプロセスから、ホストシステムを隔離します。コンピュータ内のほかのプログラムやデータに永続的な変更が加えられるのを防ぎます。</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="231"/>
@@ -364,63 +364,66 @@ It is recommended to choose a password consisting of 20 or more characters. Are 
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="257"/>
         <source>Select box type:</source>
-        <translation type="unfinished"></translation>
+        <translation>ボックスタイプを選択：</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="297"/>
         <source>&lt;a href=&quot;sbie://docs/security-mode&quot;&gt;Security Hardened&lt;/a&gt; Sandbox with &lt;a href=&quot;sbie://docs/privacy-mode&quot;&gt;Data Protection&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;sbie://docs/security-mode&quot;&gt;セキュリティ強化された&lt;/a&gt; サンドボックス。&lt;a href=&quot;sbie://docs/privacy-mode&quot;&gt;データ保護&lt;/a&gt;付</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="298"/>
         <source>This box type offers the highest level of protection by significantly reducing the attack surface exposed to sandboxed processes. 
 It strictly limits access to user data, allowing processes within this box to only access C:\Windows and C:\Program Files directories. 
 The entire user profile remains hidden, ensuring maximum security.</source>
-        <translation type="unfinished"></translation>
+        <translation>このボックスタイプは、サンドボックスプロセスが晒される攻撃対象を大幅に削減することにより、最高レベルの保護を提供します。
+ユーザーデータへのアクセスを厳密に制限し、このボックス内のプロセスは、C:\Windows と C:\Program Files ディレクトリのみにアクセスできます。
+ユーザープロファイル全体が非表示のままになり、最大限のセキュリティを確保します。</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="301"/>
         <source>&lt;a href=&quot;sbie://docs/security-mode&quot;&gt;Security Hardened&lt;/a&gt; Sandbox</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;sbie://docs/security-mode&quot;&gt;セキュリティ強化された&lt;/a&gt; サンドボックス</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="302"/>
         <source>This box type offers the highest level of protection by significantly reducing the attack surface exposed to sandboxed processes.</source>
-        <translation type="unfinished"></translation>
+        <translation>このボックスタイプは、サンドボックスプロセスが晒される攻撃対象を大幅に削減することにより、最高レベルの保護を提供します。</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="303"/>
         <source>Sandbox with &lt;a href=&quot;sbie://docs/privacy-mode&quot;&gt;Data Protection&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;sbie://docs/privacy-mode&quot;&gt;データ保護&lt;/a&gt;付 サンドボックス</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="304"/>
         <source>In this box type, sandboxed processes are prevented from accessing any personal user files or data. The focus is on protecting user data, and as such, 
 only C:\Windows and C:\Program Files directories are accessible to processes running within this sandbox. This ensures that personal files remain secure.</source>
-        <translation type="unfinished"></translation>
+        <translation>このボックスタイプでは、サンドボックスプロセスは個人ユーザーのファイルやデータにアクセスできません。ユーザーデータの保護に重点が置かれています。サンドボックス内のプロセスは、C:\Windows と C:\Program Files ディレクトリのみアクセス可能です。これにより、個人ファイルの安全性が確保されます。</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="306"/>
         <source>Standard Sandbox</source>
-        <translation type="unfinished"></translation>
+        <translation>標準的なサンドボックス</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="307"/>
         <source>This box type offers the default behavior of Sandboxie classic. It provides users with a familiar and reliable sandboxing scheme. 
 Applications can be run within this sandbox, ensuring they operate within a controlled and isolated space.</source>
-        <translation type="unfinished"></translation>
+        <translation>このボックスタイプは、Sandboxie クラシックのデフォルト動作を提供します。これは、使い慣れた信頼性の高いサンドボックススキームをユーザーに提供します。アプリケーションはこのサンドボックス内で実行でき、制御および隔離された空間内で動作することが保証されます。</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="309"/>
         <source>&lt;a href=&quot;sbie://docs/compartment-mode&quot;&gt;Application Compartment&lt;/a&gt; Box with &lt;a href=&quot;sbie://docs/privacy-mode&quot;&gt;Data Protection&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;sbie://docs/compartment-mode&quot;&gt;アプリケーションコンパートメント&lt;/a&gt; ボックス &lt;a href=&quot;sbie://docs/privacy-mode&quot;&gt;データ保護&lt;/a&gt;付</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="310"/>
         <location filename="Wizards/NewBoxWizard.cpp" line="313"/>
         <source>This box type prioritizes compatibility while still providing a good level of isolation. It is designed for running trusted applications within separate compartments. 
 While the level of isolation is reduced compared to other box types, it offers improved compatibility with a wide range of applications, ensuring smooth operation within the sandboxed environment.</source>
-        <translation type="unfinished"></translation>
+        <translation>このボックスタイプは、適切なレベルの隔離を提供しながら、互換性を優先します。個別のコンパートメント内で信頼されたアプリケーションを実行するように設計されています。
+他のボックスタイプに比べて隔離レベルは低くなりますが、幅広いアプリケーションとの互換性が改善し、サンドボックス環境内でのスムーズな動作が保証されます。</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="312"/>
@@ -2686,52 +2689,52 @@ Unlike the preview channel, it does not include untested, potentially breaking, 
     <message>
         <location filename="SandMan.cpp" line="436"/>
         <source>Stop All</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">すべて停止</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="437"/>
         <source>&amp;Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>高度(&amp;A)</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="438"/>
         <source>Install Driver</source>
-        <translation type="unfinished"></translation>
+        <translation>ドライバをインストール</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="439"/>
         <source>Start Driver</source>
-        <translation type="unfinished"></translation>
+        <translation>ドライバを開始</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="440"/>
         <source>Stop Driver</source>
-        <translation type="unfinished"></translation>
+        <translation>ドライバを停止</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="441"/>
         <source>Uninstall Driver</source>
-        <translation type="unfinished"></translation>
+        <translation>ドライバをアンインストール</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="443"/>
         <source>Install Service</source>
-        <translation type="unfinished"></translation>
+        <translation>サービスをインストール</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="444"/>
         <source>Start Service</source>
-        <translation type="unfinished"></translation>
+        <translation>サービスを開始</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="445"/>
         <source>Stop Service</source>
-        <translation type="unfinished"></translation>
+        <translation>サービスを停止</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="446"/>
         <source>Uninstall Service</source>
-        <translation type="unfinished"></translation>
+        <translation>サービスをアンインストール</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="451"/>
@@ -2746,7 +2749,7 @@ Unlike the preview channel, it does not include untested, potentially breaking, 
     <message>
         <location filename="SandMan.cpp" line="466"/>
         <source>Uninstall All</source>
-        <translation type="unfinished"></translation>
+        <translation>全てアンインストール</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="472"/>
@@ -2781,7 +2784,7 @@ Unlike the preview channel, it does not include untested, potentially breaking, 
     <message>
         <location filename="SandMan.cpp" line="492"/>
         <source>Troubleshooting Wizard</source>
-        <translation type="unfinished"></translation>
+        <translation>トラブルシューティング ウィザード</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="493"/>
@@ -2848,7 +2851,7 @@ Unlike the preview channel, it does not include untested, potentially breaking, 
         <location filename="SandMan.cpp" line="514"/>
         <location filename="SandMan.cpp" line="656"/>
         <source>Lock All Encrypted Boxes</source>
-        <translation type="unfinished"></translation>
+        <translation>全ての暗号化ボックスを施錠</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="516"/>
@@ -2921,7 +2924,7 @@ Unlike the preview channel, it does not include untested, potentially breaking, 
     <message>
         <location filename="SandMan.cpp" line="595"/>
         <source>Trace Logging</source>
-        <translation type="unfinished"></translation>
+        <translation>トレースロギング</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="599"/>
@@ -2998,12 +3001,12 @@ Unlike the preview channel, it does not include untested, potentially breaking, 
     <message>
         <location filename="SandMan.cpp" line="653"/>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ファイル(&amp;F)</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="670"/>
         <source>Resource Access Monitor</source>
-        <translation type="unfinished"></translation>
+        <translation>リソース アクセス モニタ</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="703"/>
@@ -3013,7 +3016,7 @@ Unlike the preview channel, it does not include untested, potentially breaking, 
     <message>
         <location filename="SandMan.cpp" line="704"/>
         <source>Files and Folders</source>
-        <translation type="unfinished"></translation>
+        <translation>ファイルとフォルダ</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="730"/>
@@ -3043,7 +3046,7 @@ Unlike the preview channel, it does not include untested, potentially breaking, 
     <message>
         <location filename="SandMan.cpp" line="740"/>
         <source>Reveal Hidden Boxes</source>
-        <translation type="unfinished"></translation>
+        <translation>隠しボックスを表示</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="746"/>
@@ -4023,7 +4026,7 @@ This file is part of Sandboxie and all change done to it will be reverted next t
     <message>
         <location filename="Engine/SbieObject.cpp" line="204"/>
         <source>Run &amp;Un-Sandboxed</source>
-        <translation type="unfinished"></translation>
+        <translation>サンドボックス化しないで実行 (&amp;U)</translation>
     </message>
 </context>
 <context>
@@ -5457,99 +5460,101 @@ This file is part of Sandboxie and all change done to it will be reverted next t
     <message>
         <location filename="Wizards/BoxAssistant.cpp" line="810"/>
         <source>Submit Issue Report</source>
-        <translation type="unfinished"></translation>
+        <translation>問題レポートを提出する</translation>
     </message>
     <message>
         <location filename="Wizards/BoxAssistant.cpp" line="824"/>
         <source>Detailed issue description</source>
-        <translation type="unfinished"></translation>
+        <translation>問題の詳細な説明</translation>
     </message>
     <message>
         <location filename="Wizards/BoxAssistant.cpp" line="828"/>
         <source>Attach Sandboxie.ini</source>
-        <translation type="unfinished"></translation>
+        <translation>Sandboxie.ini を添付する</translation>
     </message>
     <message>
         <location filename="Wizards/BoxAssistant.cpp" line="829"/>
         <source>Sandboxing compatibility is reliant on the configuration, hence attaching the Sandboxie.ini file helps a lot with finding the issue.</source>
-        <translation type="unfinished"></translation>
+        <translation>サンドボックスの互換性は構成に依存するため、Sandboxie.ini ファイルを添付すると問題を確認するのに非常に役立ちます。</translation>
     </message>
     <message>
         <location filename="Wizards/BoxAssistant.cpp" line="832"/>
         <source>Attach Logs</source>
-        <translation type="unfinished"></translation>
+        <translation>ログを添付する</translation>
     </message>
     <message>
         <location filename="Wizards/BoxAssistant.cpp" line="834"/>
         <source>Selecting partially checked state sends only the message log, but not the trace log.
 Before sending, you can review the logs in the main window.</source>
-        <translation type="unfinished"></translation>
+        <translation>部分的にチェックされた状態を選択すると、メッセージログのみを送信し、トレースログは送信しません。
+送信する前に、メインウィンドウでログを確認することができます。</translation>
     </message>
     <message>
         <location filename="Wizards/BoxAssistant.cpp" line="837"/>
         <source>Attach Crash Dumps</source>
-        <translation type="unfinished"></translation>
+        <translation>クラッシュダンプを添付</translation>
     </message>
     <message>
         <location filename="Wizards/BoxAssistant.cpp" line="838"/>
         <source>An application crashed during the troubleshooting procedure, attaching a crash dump can help with the debugging.</source>
-        <translation type="unfinished"></translation>
+        <translation>トラブルシューティング手順中にアプリケーションがクラッシュしました。クラッシュダンプを添付するとデバッグに役立ちます。</translation>
     </message>
     <message>
         <location filename="Wizards/BoxAssistant.cpp" line="842"/>
         <source>Email address</source>
-        <translation type="unfinished"></translation>
+        <translation>メールアドレス</translation>
     </message>
     <message>
         <location filename="Wizards/BoxAssistant.cpp" line="843"/>
         <source>You have the option to provide an email address to receive a notification once a solution for your issue has been identified.</source>
-        <translation type="unfinished"></translation>
+        <translation>問題の解決策が特定された時に、通知を受け取るための電子メールアドレスを提供するオプションがあります。</translation>
     </message>
     <message>
         <location filename="Wizards/BoxAssistant.cpp" line="851"/>
         <source>We apologize for the inconvenience you are currently facing with Sandboxie-Plus. </source>
-        <translation type="unfinished"></translation>
+        <translation>Sandboxie-Plus に関して現在ご迷惑をお掛けして申し訳ありません。 </translation>
     </message>
     <message>
         <location filename="Wizards/BoxAssistant.cpp" line="858"/>
         <source>Unfortunately, the automated troubleshooting procedure failed. </source>
-        <translation type="unfinished"></translation>
+        <translation>残念ながら、自動トラブルシューティング手順は失敗しました。 </translation>
     </message>
     <message>
         <location filename="Wizards/BoxAssistant.cpp" line="864"/>
         <source>Regrettably, there is no automated troubleshooting procedure available for the specific issue you have described. </source>
-        <translation type="unfinished"></translation>
+        <translation>残念ながら、説明された特定の問題に対して利用できる自動トラブルシューティングの手順はありません。 </translation>
     </message>
     <message>
         <location filename="Wizards/BoxAssistant.cpp" line="869"/>
         <source>If you wish to submit an issue report, please review the report below and click &apos;Finish&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>問題レポートを提出したい場合は、以下のレポートを確認して「完了」をクリックしてください。</translation>
     </message>
     <message>
         <location filename="Wizards/BoxAssistant.cpp" line="968"/>
         <source>Compressing Logs</source>
-        <translation type="unfinished"></translation>
+        <translation>ログを圧縮する</translation>
     </message>
     <message>
         <location filename="Wizards/BoxAssistant.cpp" line="1002"/>
         <source>Compressing Dumps</source>
-        <translation type="unfinished"></translation>
+        <translation>ダンプを圧縮する</translation>
     </message>
     <message>
         <location filename="Wizards/BoxAssistant.cpp" line="1039"/>
         <source>Submitting issue report...</source>
-        <translation type="unfinished"></translation>
+        <translation>レポートを提出しています...</translation>
     </message>
     <message>
         <location filename="Wizards/BoxAssistant.cpp" line="1050"/>
         <source>Failed to submit issue report, error %1
 Try submitting without the log attached.</source>
-        <translation type="unfinished"></translation>
+        <translation>問題レポートの提出に失敗しました。エラー %1
+ログ添付なしで、提出してみてください。</translation>
     </message>
     <message>
         <location filename="Wizards/BoxAssistant.cpp" line="1054"/>
         <source>Your issue report has been successfully submitted, thank you.</source>
-        <translation type="unfinished"></translation>
+        <translation>あなたの問題レポートは正常に提出されました。ありがとうございました。</translation>
     </message>
 </context>
 <context>
@@ -7771,7 +7776,7 @@ Please note that this values are currently user specific and saved globally for 
     <message>
         <location filename="Forms/SettingsWindow.ui" line="32"/>
         <source>SandboxiePlus Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>SandboxiePlus 設定</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="55"/>
@@ -7801,7 +7806,7 @@ Please note that this values are currently user specific and saved globally for 
     <message>
         <location filename="Forms/SettingsWindow.ui" line="126"/>
         <source>Open urls from this ui sandboxed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">この UI サンドボックスから URL を開く</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="142"/>
@@ -7841,27 +7846,27 @@ Please note that this values are currently user specific and saved globally for 
     <message>
         <location filename="Forms/SettingsWindow.ui" line="234"/>
         <source>Notifications</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">通知</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="266"/>
         <source>Add Entry</source>
-        <translation type="unfinished"></translation>
+        <translation>エントリを追加</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="274"/>
         <source>Message ID</source>
-        <translation type="unfinished"></translation>
+        <translation>メッセージ ID</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="279"/>
         <source>Message Text (optional)</source>
-        <translation type="unfinished"></translation>
+        <translation>メッセージテキスト (オプション)</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="293"/>
         <source>SBIE Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>SBIE メッセージ</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="312"/>
@@ -7871,7 +7876,7 @@ Please note that this values are currently user specific and saved globally for 
     <message>
         <location filename="Forms/SettingsWindow.ui" line="325"/>
         <source>Notification Options</source>
-        <translation type="unfinished"></translation>
+        <translation>通知オプション</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="351"/>
@@ -7881,7 +7886,7 @@ Please note that this values are currently user specific and saved globally for 
     <message>
         <location filename="Forms/SettingsWindow.ui" line="364"/>
         <source>Disable SBIE messages popups (they will still be logged to the Messages tab)</source>
-        <translation type="unfinished"></translation>
+        <translation>SBIE メッセージポップアップを無効にする (依然としてメッセージタブにはログが残る)</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="374"/>
@@ -7891,17 +7896,17 @@ Please note that this values are currently user specific and saved globally for 
     <message>
         <location filename="Forms/SettingsWindow.ui" line="377"/>
         <source>Suppress pop-up notifications when in game / presentation mode</source>
-        <translation type="unfinished"></translation>
+        <translation>ゲーム / プレゼンテーションモードの時、ポップアップ通知を抑制する</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="384"/>
         <source>Show file migration progress when copying large files into a sandbox</source>
-        <translation type="unfinished"></translation>
+        <translation>大きなファイルをサンドボックス内にコピーしている時、ファイル移行プログレスを表示する</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="391"/>
         <source>Show recoverable files as notifications</source>
-        <translation type="unfinished"></translation>
+        <translation>回復可能なファイルの通知を表示</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="418"/>
@@ -7911,7 +7916,7 @@ Please note that this values are currently user specific and saved globally for 
     <message>
         <location filename="Forms/SettingsWindow.ui" line="428"/>
         <source>Windows Shell</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows シェル</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="436"/>
@@ -7926,7 +7931,7 @@ Please note that this values are currently user specific and saved globally for 
     <message>
         <location filename="Forms/SettingsWindow.ui" line="450"/>
         <source>Integrate with Host Start Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>ホストのスタートメニューに統合する</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="463"/>
@@ -7936,7 +7941,7 @@ Please note that this values are currently user specific and saved globally for 
     <message>
         <location filename="Forms/SettingsWindow.ui" line="476"/>
         <source>Start Menu Integration</source>
-        <translation type="unfinished"></translation>
+        <translation>スタートメニュー統合</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="499"/>
@@ -7966,42 +7971,42 @@ Please note that this values are currently user specific and saved globally for 
     <message>
         <location filename="Forms/SettingsWindow.ui" line="601"/>
         <source>Integrate with Host Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ホストのデスクチップに統合</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="617"/>
         <source>System Tray</source>
-        <translation type="unfinished"></translation>
+        <translation>システムトレイ</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="625"/>
         <source>Show boxes in tray list:</source>
-        <translation type="unfinished"></translation>
+        <translation>トレイリストにボックスを表示</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="638"/>
         <source>Show Icon in Systray:</source>
-        <translation type="unfinished"></translation>
+        <translation>システムトレイにアイコンを表示</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="660"/>
         <source>Systray options</source>
-        <translation type="unfinished"></translation>
+        <translation>システムトレイ設定</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="693"/>
         <source>Use Compact Box List</source>
-        <translation type="unfinished"></translation>
+        <translation>コンパクトボックスリストを使う</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="709"/>
         <source>Show a tray notification when automatic box operations are started</source>
-        <translation type="unfinished"></translation>
+        <translation>自動的なボックス操作が開始された時、トレイ通知を表示する</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="716"/>
         <source>On main window close:</source>
-        <translation type="unfinished"></translation>
+        <translation>メインウィンドウを閉じる時：</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="723"/>
@@ -8011,12 +8016,12 @@ Please note that this values are currently user specific and saved globally for 
     <message>
         <location filename="Forms/SettingsWindow.ui" line="730"/>
         <source>Minimize to tray</source>
-        <translation type="unfinished"></translation>
+        <translation>トレイに最小化する</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="740"/>
         <source>Run Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>実行メニュー</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="762"/>
@@ -8025,39 +8030,39 @@ Please note that this values are currently user specific and saved globally for 
         <location filename="Forms/SettingsWindow.ui" line="2391"/>
         <location filename="Forms/SettingsWindow.ui" line="2524"/>
         <source>Name</source>
-        <translation type="unfinished">名前</translation>
+        <translation>名前</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="767"/>
         <source>Command Line</source>
-        <translation type="unfinished"></translation>
+        <translation>コマンドライン</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="787"/>
         <source>Add program</source>
-        <translation type="unfinished"></translation>
+        <translation>プログラムを追加</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="819"/>
         <source>Move Up</source>
-        <translation type="unfinished">上に移動</translation>
+        <translation>上に移動</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="838"/>
         <source>Move Down</source>
-        <translation type="unfinished">下に移動</translation>
+        <translation>下に移動</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="845"/>
         <source>You can configure custom entries for all sandboxes run menus.</source>
-        <translation type="unfinished"></translation>
+        <translation>全てのサンドボックス実行メニューのカスタムエントリを構成できます</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="867"/>
         <location filename="Forms/SettingsWindow.ui" line="1298"/>
         <location filename="Forms/SettingsWindow.ui" line="2471"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>削除</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="892"/>
