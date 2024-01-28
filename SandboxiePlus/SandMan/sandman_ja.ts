@@ -1091,7 +1091,7 @@ You can use %USER% to save each users sandbox to an own folder.</source>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="32"/>
         <source>New Box Wizard</source>
-        <translation type="unfinished"></translation>
+        <translation>新規ボックスウィザード</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="75"/>
