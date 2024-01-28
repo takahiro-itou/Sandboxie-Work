@@ -36,7 +36,7 @@
 "This box has DropAdminRights enabled, preventing execution of installers. Do you want to disable this restriction, that will reduce the security level.": "This box has DropAdminRights enabled, preventing execution of installers. Do you want to disable this restriction, that will reduce the security level.",
 "Disable DropAdminRights": "Disable DropAdminRights",
 "Enable FakeAdminRights": "Enable FakeAdminRights",
-"running installer, pid: %1 press NEXT once it finishes to continue": "インストーラを実行中 (pid: %1)。 終了したら「次へ」をクリックして続行してください。",
+"running installer, pid: %1 press NEXT once it finishes to continue": "インストーラを実行中 (pid: %1)。 終了したら「次へ」を押下して続行してください。",
 "Was the issue resolved?": "問題は解決しましたか？",
 
 "Webcam or Sound does not work when sandboxed": "サンドボックス化するとウェブカメラまたはサウンドが動作しない",
@@ -72,9 +72,9 @@
 "Name affected process": "影響を受けるプロセスの名前",
 "Please enter the SBIEMSG ID you have encountered.": "遭遇した SBIEMSG ID を入力してください。",
 "There is no automated troubleshooting available for SBIE%1 yet.<br />": "SBIE%1 に対して利用可能な自動トラブルシューティングはまだありません。<br />",
-"The full message text is: %1<br />": "The full message text is: %1<br />",
-"Visit out <a href=\"%1\">online-documentation</a> to learn more about this, and other sbie messages.": "Visit out <a href=\"%1\">online-documentation</a> to learn more about this, and other sbie messages.",
+"The full message text is: %1<br />": "メッセージの全文： %1<br />",
+"Visit out <a href=\"%1\">online-documentation</a> to learn more about this, and other sbie messages.": "このメッセージやその他の sbie メッセージついて、さらに詳しく学ぶには、<a href=\"%1\">オンラインドキュメント</a> をご覧ください。",
 "Would you like to collect some logs to help us resolve the issue.": "問題の解決に役立つログを収集しますか？",
-"Now please run your application again to trigger the Sbie message.<br /><br />": "Now please run your application again to trigger the Sbie message.<br /><br />",
-"Press NEXT when you are done collecting logs.": "Press NEXT when you are done collecting logs."
+"Now please run your application again to trigger the Sbie message.<br /><br />": "Sbie メッセージをトリガーするために、アプリケーションを再度実行してください。<br /><br />",
+"Press NEXT when you are done collecting logs.": "ログの収集が完了したら、「次へ」を押下してください。"
 }
