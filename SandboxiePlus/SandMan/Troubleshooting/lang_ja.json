@@ -60,18 +60,18 @@
 
 "Sandboxie was not able to execute one of its own programs. Check access permissions to the Sandboxie installation folder and/or reinstall Sandboxie.\n\nPossible Causes:\n1. Sandboxie was configured to block access to the folder containing its program files.\n2. A third-party (HIPS) security software was configured to block the execution of the program mentioned in the message.\n\nYou can submit an issue report on the next page to help us to analyze the issue.": "Sandboxie was not able to execute one of its own programs. Check access permissions to the Sandboxie installation folder and/or reinstall Sandboxie.\n\nPossible Causes:\n1. Sandboxie was configured to block access to the folder containing its program files.\n2. A third-party (HIPS) security software was configured to block the execution of the program mentioned in the message.\n\nYou can submit an issue report on the next page to help us to analyze the issue.",
 
-"Do you want to open the box option dialog to change this preset?": "Do you want to open the box option dialog to change this preset?",
+"Do you want to open the box option dialog to change this preset?": "ボックスオプションダイアログを開いて、このプリセットを変更しますか？",
 "No, it is fine as it is": "No, it is fine as it is",
-"No, but I want to report a bug": "No, but I want to report a bug",
+"No, but I want to report a bug": "いいえ、しかしバグを報告します。",
 
-"The message %1 is caused by the file migration limit being reached.": "The message %1 is caused by the file migration limit being reached.",
+"The message %1 is caused by the file migration limit being reached.": "メッセージ %1 は、ファイル移行の制限に達したことが原因で発生します。",
 
 "It seems you are using a non-administrative user account on a system with enabled parental controls, this is known to be incompatible with Sandboxie.\nYou have the following options to resolve the issue.": "It seems you are using a non-administrative user account on a system with enabled parental controls, this is known to be incompatible with Sandboxie.\nYou have the following options to resolve the issue.",
 
 "Sbie Message Code": "Sbie メッセージコード",
-"Name affected process": "Name affected process",
+"Name affected process": "影響を受けるプロセスの名前",
 "Please enter the SBIEMSG ID you have encountered.": "遭遇した SBIEMSG ID を入力してください。",
-"There is no automated troubleshooting available for SBIE%1 yet.<br />": "There is no automated troubleshooting available for SBIE%1 yet.<br />",
+"There is no automated troubleshooting available for SBIE%1 yet.<br />": "SBIE%1 に対して利用可能な自動トラブルシューティングはまだありません。<br />",
 "The full message text is: %1<br />": "The full message text is: %1<br />",
 "Visit out <a href=\"%1\">online-documentation</a> to learn more about this, and other sbie messages.": "Visit out <a href=\"%1\">online-documentation</a> to learn more about this, and other sbie messages.",
 "Would you like to collect some logs to help us resolve the issue.": "問題の解決に役立つログを収集しますか？",
