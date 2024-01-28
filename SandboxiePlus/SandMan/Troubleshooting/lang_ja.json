@@ -48,7 +48,7 @@
 "Select affected sandbox": "影響を受けるサンドボックスを選択",
 "Enter Process Name": "プロセス名を入力",
 
-"Internet Access restrictions are in effect for the sandbox in which the program is running. The program is prohibited from accessing the Internet.": "Internet Access restrictions are in effect for the sandbox in which the program is running. The program is prohibited from accessing the Internet.",
+"Internet Access restrictions are in effect for the sandbox in which the program is running. The program is prohibited from accessing the Internet.": "インターネットアクセス制限は、プログラムが実行されているサンドボックスに対して有効です。プログラムはインターネットへのアクセスを禁止されています。",
 
 "Start/Run restrictions are in effect for the sandbox in which the program is running. The program is prohibited from starting or running.": "Start/Run restrictions are in effect for the sandbox in which the program is running. The program is prohibited from starting or running.",
 
